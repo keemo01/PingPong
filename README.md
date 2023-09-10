@@ -6,8 +6,6 @@ This readme provides an overview of the JavaScript-based Ping Pong game code and
 
 Ping Pong is a classic arcade game where players control paddles to hit a ball back and forth. The game has been implemented using JavaScript for logic, HTML for the structure, and CSS for styling.
 
-## Code Overview
-
 ## HTML Structure
 The game's HTML structure includes a canvas for rendering the game, buttons for difficulty selection in a modal, and a container for displaying the game over message.
 
